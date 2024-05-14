@@ -1,0 +1,10 @@
+{
+  "log_files": {
+    "api1": "logs/log1.log",
+    "api2": "logs/log2.log"
+  },
+  "log_level": "info",
+  "db_uri": "mongodb://localhost:27017",
+  "db_name": "Mydb",
+  "collection_name": "logs"
+}
